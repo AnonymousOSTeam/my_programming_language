@@ -1,42 +1,42 @@
-#try_exception
-#note_to_self
-#ipaddrlen
-#netaddrlen
-#int_define
-#self_to_ergo_sum
-#sum_sys64_note_to_self_not
-#self_define_sys_insecure
-#re_and_aetensfirinot
+try_exception
+note_to_self
+ipaddrlen
+netaddrlen
+int_define
+self_to_ergo_sum
+sum_sys64_note_to_self_not
+self_define_sys_insecure
+re_and_aetensfirinot
 
-#int define_sys_x86 #set_system_insecure64
-#int grepküler42_sys_integer_sys
-#system_42 define_sys64
-#int define_grepefer64
-#system_xos86
-#lexer_dram
+int define_sys_x86 #set_system_insecure64
+int grepküler42_sys_integer_sys
+system_42 define_sys64
+int define_grepefer64
+system_xos86
+lexer_dram
 
-#if(x) 5 == 10;
-#int define(5 == 10);
-#elseif(x)10 == 15;
-#elif(x)15 == 20;
-#if option == 1: choose modules;
-#elseif option == 2: choose attack modules;
-#elseif option == 3: choose attack modules 2;
-#elseif option == 4: choose attack modules 3;
+if(x) 1 == 5;
+int define(5 == 10);
+elseif(x)10 == 15;
+elif(x)15 == 20;
+if option == 1: choose modules;
+elseif option == 2: choose attack modules;
+elseif option == 3: choose attack modules 2;
+elseif option == 4: choose attack modules 3;
 
-#int_add
-#new_system64
-#int_define(5){};
-#char vericar_sistemas_operacionais(x == y) x = y;
-#if (x == y){
-#printf("%99s", seusdadosforamlevadosporcibercriminosos);
-#return 0;
-#};
+int_add
+new_system64
+int_define(5){};
+char vericar_sistemas_operacionais(x == y) x = y;
+if (x == y){
+printf("%99s", seusdadosforamlevadosporcibercriminosos);
+return 0;
+};
 
-#int var res (x) x = 5;
-#int var res (y) y = 10;
-#if var res (x == y) x + y = ?;
-#resultf("%99s", theresultis15);
-#retruncatef("Theresultis15.\n"); 
-#linkage 0;
-#};
+int var res (x) x = 5;
+int var res (y) y = 10;
+if var res (x == y) x + y = ?;
+resultf("%99s", theresultis15);
+retruncatef("Theresultis15.\n"); 
+linkage 0;
+};
