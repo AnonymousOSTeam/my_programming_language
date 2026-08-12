@@ -32,3 +32,11 @@
 #printf("%99s", seusdadosforamlevadosporcibercriminosos);
 #return 0;
 #};
+
+#int var res (x) x = 5;
+#int var res (y) y = 10;
+#if var res (x == y) x + y = ?;
+#resultf("%99s", theresultis15);
+#retruncatef("Theresultis15.\n"); 
+#linkage 0;
+#};
